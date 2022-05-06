@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turbotrail (Jeyaprakash)
 - 👀 I’m interested in research and problem solving
-- 🌱 I’m currently learning Github and Dev ops
+- 🌱 I’m currently learning Github , Dev ops and Electronics
 - 💞️ I’m looking to collaborate on like minded people ready to learn
 - 📫 How to reach me reach me at (jp.s.gog@gmail.com)
 
