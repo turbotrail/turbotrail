@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turbotrail (Jeyaprakash)
 - 👀 I’m interested in research and problem solving
-- 🌱 I’m currently learning Github , Dev ops and Electronics
+- 🌱 I turn storms, signals, and silence into data — blending engineering with Earth’s hidden rhythms.
 - 💞️ I’m looking to collaborate on like minded people ready to learn
 - 📫 How to reach me reach me at (jp.s.gog@gmail.com)
 
