@@ -4,7 +4,7 @@ I’m an engineer and software developer who loves turning **real‑world signal
 My work sits at the intersection of **software, electronics, Earth science, and AI**.
 
 ### 🎯 Personal mission
-- **For industry & FAANG-style roles:** Engineering scalable, production-grade systems that convert complex, noisy data into reliable, real-time insights.  
+- **For industry roles:** Engineering scalable, production-grade systems that convert complex, noisy data into reliable, real-time insights.  
 - **For research & labs:** Building accessible, reproducible tools that turn raw environmental and space signals into scientifically meaningful datasets.
 
 > *I like systems that listen to the planet and software that knows how to respond.*
@@ -43,11 +43,6 @@ My work sits at the intersection of **software, electronics, Earth science, and 
 - Open-source science & climate-tech projects  
 - Data-heavy dashboards and monitoring systems  
 - AI tools that solve practical, real-world problems
-
-### 📈 GitHub by the numbers
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turbotrail&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turbotrail&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=turbotrail&theme=darkhub&margin-w=8)
 
 ### 📫 Reach me
 - 📧 Email: jp.s.gog@gmail.com
