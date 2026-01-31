@@ -3,6 +3,16 @@
 I’m an engineer and software developer who loves turning **real‑world signals into meaningful data**.  
 My work sits at the intersection of **software, electronics, Earth science, and AI**.
 
+### 🧩 Core stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AI](https://img.shields.io/badge/AI-LLMs%20%26%20RAG-black)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Agents%20%26%20Tools-purple)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Development%20Kit-blue)
+![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-4285F4?logo=googlecloud&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-Raspberry%20Pi%20%7C%20Sensors-darkgreen)
+
 ### 🎯 Personal mission
 - **For industry roles:** Engineering scalable, production-grade systems that convert complex, noisy data into reliable, real-time insights.  
 - **For research & labs:** Building accessible, reproducible tools that turn raw environmental and space signals into scientifically meaningful datasets.
@@ -23,16 +33,6 @@ My work sits at the intersection of **software, electronics, Earth science, and 
 - **AI & Data:** LLMs, RAG, embeddings, vector DBs, Azure AI Search, ADK , Agentic AI , GCP
 - **Infra & DevOps:** Docker, GitHub Actions, Linux, self-hosting  
 - **Hardware:** Raspberry Pi, SDRs, VLF receivers, environmental sensors
-
-### 🧩 Core stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AI](https://img.shields.io/badge/AI-LLMs%20%26%20RAG-black)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Agents%20%26%20Tools-purple)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Development%20Kit-blue)
-![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-4285F4?logo=googlecloud&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-Raspberry%20Pi%20%7C%20Sensors-darkgreen)
 
 ### 🚀 Current focus
 - Real-time space & environmental monitoring dashboards  
